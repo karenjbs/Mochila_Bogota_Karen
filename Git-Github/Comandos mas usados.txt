@@ -1,0 +1,31 @@
+Crear un repositorio en Github
+
+1. Crear una cuenta en github
+2. En el boton NEW que se encuentra en la parte superior izquierda dar click
+3. Asignar nombre al repositorio
+4. Dar crear
+________________________________________________________________
+
+Clonar un repositorio existente
+
+1. Con el comando git clone / git remote add origin + url del repositorio ya creado en github
+
+_________________________________________________________________
+
+Crear un toke en github
+
+1. Ingresar al perfil
+2. Ingresar a settings
+3. Ingresar en Developre settings
+4. Desplegar personal acces tokens
+5. Elegir tokens classic
+6. Desplegar generate new token y elegir generate new token (classic)
+7. Posterior confirmar la clave del github
+8. Elegir las opciones de seguridad y accesibilidad
+9. Asignar nombre y copia en un lugar seguro la clave ya que no se volvera a ver
+
+_________________________________________________________________
+
+Configuracion del token
+
+1.
