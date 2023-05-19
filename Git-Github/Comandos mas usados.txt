@@ -28,4 +28,18 @@ _________________________________________________________________
 
 Configuracion del token
 
-1.
+1. https:// "token" @ + url del repositorio
+
+_________________________________________________________________
+
+Crear repositorio local
+
+1. abrir la terminal gitbush o nueva terminal desde vs
+2. comando git init ---> inicia repositorio local
+3. realizamos las actividades pertinentes
+4. git status ---> para saber el estado de los archivos
+5. git add. / git add + nombre archivo especifico ----> para agregar a la staging area
+6. git commit -m + nombre asignado para el commit ----> asignacion de nombre para el nuevo commit
+7. git push origin + nombre rama ---> crea un repo y lo envia a github
+
+_________________________________________________________________
